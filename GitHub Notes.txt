@@ -1,0 +1,8 @@
+##Introduction Notes:
+
+GitHub is a version control system which let's you save all the changes over time and also track them, go back and revert them if needed.
+Git is the actual open source software that allows you to control all these version changes
+GitHub is the web server that allows you to have teams and work collaborativeley.
+Git + GitHub together brings together the term social coding as people can work from any part of the world and still work together.
+
+
