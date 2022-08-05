@@ -1,4 +1,4 @@
-##Introduction Notes:
+## Introduction Notes:
 
 GitHub is a version control system which let's you save all the changes over time and also track them, go back and revert them if needed.
 Git is the actual open source software that allows you to control all these version changes
