@@ -5,4 +5,7 @@ Git is the actual open source software that allows you to control all these vers
 GitHub is the web server that allows you to have teams and work collaborativeley.
 Git + GitHub together brings together the term social coding as people can work from any part of the world and still work together.
 
-
+## Repositories & Commiting Changes:
+Repositories are like folders of the project where you can add files as per your needs.
+You have to save the changes/ additions you are making by pressing "Commit Change" which adds the commits to your documents/ code.
+Every commit has it's own hashtag code, which allows you to go back to whatever commit you need.
