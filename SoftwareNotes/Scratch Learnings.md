@@ -1,5 +1,4 @@
 ## Scratch - Visual Coding Language
-
 Scratch is a visual programming language where one can create their own animations, games and interactive videos.
 It is also a tool that let's you collaborate with other users to contribute or add/ remix existing scratch creations.
 
