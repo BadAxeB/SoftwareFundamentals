@@ -4,7 +4,9 @@ GitHub is a version control system which let's you save all the changes over tim
 Git is the actual open source software that allows you to control all these version changes
 GitHub is the web server that allows you to have teams and work collaborativeley.
 Git + GitHub together brings together the term social coding as people can work from any part of the world and still work together.
+
 **Markdown Document** is a coded document that one can use to add special syntax in their document including website links, embedded links and so on
+
 For more read [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
 
 ## Repositories & Commiting Changes:
