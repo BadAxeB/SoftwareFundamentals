@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+Title: Spftware Fundamentals
+Description: Software Fundaments Research Notes
+Permalink: 
+---
+Page: Week1
+---
+<h2>{{ page.Week1 }}</h2>
