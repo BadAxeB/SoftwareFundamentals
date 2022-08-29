@@ -33,7 +33,120 @@ Once I finally got it to work, I realised that I has syntaxes which worked diffe
 
 
 ### Week 4 & Week 5
-Week 4 and Week felt like a big mix of understanding Agile Rituals but in not a long time.
-Doing different exercises with peers in the campus, engaged a new way of working and planted a little idea seed for my independent software project.
-It's only after experimenting with a quick stand-up, I realised how I want my project to work and flow and what I am inclined more towards.
-I am inspired to experiment with Figma and build an App mockup for Candle Making.
+Week 4 and Week 5 felt like a big mix of understanding Agile Rituals and AI.
+I loved seeing the explorations that we can do in MidJourney and Dali, which has me experimenting with this idea of creating AI collages for non-tangible things like smells and sounds.
+
+Some part of me wanted more in week 4, so I tried to read up few things on Canvas which didn't seem to match our learning in lectures, it left me a little lost for a moment but then I decided to go beyond the material and actually use the Internet to read up things I wanted to know about Agile and AI creations, which brought me to a whole new world of how there is nothing that should be done by the book.
+
+Later in Week 5, doing different exercises with peers in the campus, engaged a new way of working and planted a little idea seed for my independent software project. It's only after experimenting with a quick stand-up, I realised how I want my project to work and flow and what I am inclined more towards. I am inspired to experiment with Figma and build an App mockup for Candle Making.
+
+### Week 6
+This week has started with a fun exercise of Python Koans, I was very suspicious of the name till I understood what it actually meant.
+While working in Visual Code with this, I have instantly fallen in love with debugging of code.
+I have kind of gotten addicted to solving all those Koans, almost to a point that I had to stop myself and get the assignment part done before I can reward myself to more of those puzzles.
+
+They are very much tiny puzzles for me; If I can paint a visual image of how it feels, it's Python Escape Rooms and I have to go through them to solving puzzles to be able to get out of it and let me tell you oh I feel really good about it.
+
+### Internal Reflections
+
+#### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+I have been following 20-20 format, where for every 20 mins spent on screen, I try to shift spend 20 mins away from the screen, either doing hand written notes or making plans.
+
+#### What is Timeboxing? Have you heard of it before? Will you use it?
+Time boxing is a technique to allocate one's time for different tasks, using planner method.
+I have heard of that before, but most of the planners are based on dayboxing format/ weekboxing format.
+Though timeboxing can be really useful when there are meeting planned throughout the day and I have used to before and would highly reccomend it to avoid distractions.
+
+#### On a a 0-5 scale, how confident are you with each of the assignments?
+I am probably about 3 out of 5 confident on the assignments, it still feels like a whole new path to be over 3 confident for me.
+
+#### What are of you proud of up to this point in the course?
+I am very proud that I have really put my vulnerable self out there and learned so many new things which are way technical as compared to what I am used to as a Visual Story Teller. It has been enlightening to do things in a different format, challenging yet super captivating.
+
+#### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+I had the strategy of not leaving anything to the last minute. It did work for the most part as I kept my pace steady and kept up with my reading and assignments every week. At the same time, I am still working on some assignments as the deadline is coming closer, so I do tend to perform my best as a sprint much closer to the deadline.
+I am a productive procastinator, which works pretty well for me, but I am trying to self-motivate myself instead of deadlines doing the same for me.
+
+#### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+This is going to be challenging, but you got this. Trust in yourself and your instincts.
+Have a great time.
+
+#### Have you developed a habit of exploring?
+I love how the briefs for us aren't completely directed in one specific way. So I am taking the time to learn beyond just the point of knowing some things. I love to go out, run, walk around everyday to give my brain the time to come up with the ideas it wants to work on.
+
+#### Have you meditated before?
+I have meditated before, only recently in a conversation I found out that there are so many ways to meditate and not just closing your eyes and trying to focus on your third eye.
+It left me very curious of how many unknown ways I have practiced meditation and I am on the path of trying to find my favourite way of meditation. 
+
+#### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+Apart from my Career in Visual Design, I have mastered in a video game that I was playing since a decade now, it's called Crazy Taxi, but it's all been about keeping my calm.
+Recently to challenge myself, I have been learning how to swim and how to play a guitar. It has been taking a complete re-structuring of my brain to be able to learn new skills and function differently.
+
+#### Do you consider yourself a developer yet?
+I am not really sure if I consider me a developer just yet, but working on Python Koans surely makes me feel like a tester as I have been making great progress on that.
+
+#### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+I have been working in creative industry for over 6 years now. As a Designer, Photogrpher, UI/UX Assistant and many different roles. I see creativity everywhere I look around. It has way too much value in my life as I have trained my brain to see life through a creative eye and find solutions in a creative way.
+When it comes to thinking logically, I feel creative tools really help trigger a different part of brain that does leave an impact as well as more retainability. It is tested that pictures are more memorable than words, so having visual elements for learning can change the way we percieve logic.
+
+#### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+I have 60 tabs open in one browser and 74 in the other
+The 60 tabs that are open in my main browser has over 50 tabs that are study and school related.
+The rest 10 tabs are for my personal email, background Youtube and google search for random things.
+The other whole window has more my research tabs and distraction tabs open on there so I have to physically change the window I want to not work anymore.
+I am notorious for having way too many tabs open, but this is how my borderline ADHD brain let's me work and get results.
+
+#### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+I had a good enough fight response when Python wouldn't work for my system, it kept on reading Python 2.7 when I wanted it to read Python 3.9
+It almost felt like this is a dead-road and no matter how much brain power I would use on it, it would keep crashing on me.
+I ended up taking help from my local tutor to get it right, it worked for a while but again when I was working on Python Koans, I couldn't get it to work right. I decided that I won't be able to sleep if I don't get it to work for me today, I went through various links and found people with the same problem as me and was able to reboot my python with the new version and finally able to make it work. Sheer dedication and the hope that if I ever want to do it professionally, giving up won't take me a long way.
+
+#### What is an IDE?
+An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI). Visual Code is an example of an IDE.
+
+#### What did you learn out of the Marshmallow Challenge?
+I learned that it is smart to think out a plan before starting, also thinking out of the box, listening to other's ideas and finding loop holes can really create something great from oridinary.
+
+#### Did you have any blocks during this challenge? How did you overcome them?
+As a team, being on the same page wasn't easy, so maybe given the time-pressure, communication seemed to not be the best but was quickly recovered by talking things out and explaining the why nots.
+
+#### So far, what was the hardest moment of this course for you?
+
+
+#### What is OOP?
+
+#### Are you using the canvas content? Do you find it helpful or tedious?
+
+#### Which parts of the work did you find tedious?
+
+#### What is polymorphism?
+
+#### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+
+#### What is an MVP? How would you describe it to a group of 6 year olds?
+
+#### What is the hardest problem you have solved so far?
+
+#### What is pair programming?
+
+#### What are you looking forward to learning about programming?
+
+#### What is conscious listening?
+
+#### What is a variable?
+
+#### What programming languages are you interested in learning? Why?
+
+#### What is something kind that someone has done for you?
+
+#### If you were describing programming to someone who knows nothing about it, what would you say?
+
+#### Which parts of this course made you feel doubtful of your own innate ability?
+
+#### What is a fixed mindset?
+
+#### What is something kind you have done for someone else?
+
+#### Have you done mindfulness or attention training before?
+
+#### Have you developed a habit of persevering?
