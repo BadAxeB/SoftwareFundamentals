@@ -6,5 +6,8 @@ The Software Notes, display my understanding and learning of different softwares
 
 Find my Reflective Journal here [ReflectiveJournal.md](ReflectiveJournal.md)
 
-Find my Software Exploration notes here [SoftwareNotes](/SoftwareFundamentals/tree/main/SoftwareNotes)
+Find my Software Exploration notes here:
+[Scratch Learnings](/SoftwareNotes/Scratch Learnings.md)
+[Github Learnings](/SoftwareNotes/GitHub Learnings.md)
+[Python Learnings](/SoftwareNotes/Python Learnings.md)
 
