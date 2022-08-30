@@ -135,28 +135,41 @@ MVP is Minimum Viable Product, defined as that version of a new product which al
 If I was to explain this to a six year old, I would say that it's like the snacks, that they get to eat and enjoy. There is nothing wrong with it, but it's just not a final meal.
 
 ### What is the hardest problem you have solved so far?
-
+I feel the hardest problem that I have faced was being stuck in a toxic work environment for a year now. Getting out of it, starting something that makes me much better than I was yesterday and overcoming the anxiety of leaving a security was the hardest step to take.
 
 ### What is pair programming?
+Pair programming is when two people code together. Usually one writes the code and the other makes sure it doesn't have any errors and after a certain time both can discuss on the same and switch roles.
 
 ### What are you looking forward to learning about programming?
+I am very interested in learning more UI/UX design with Web Development and being able to marry programming with design.
 
 ### What is conscious listening?
+Conscious listening is being mentally and emotionally available to listen to the other person, while being conscious of their needs and feelings. 
 
 ### What is a variable?
+A variable is a value that can change, depending on conditions or on information passed to the program. It's a changing quantity which can be defined to change with user's input.
 
 ### What programming languages are you interested in learning? Why?
+I am interested in learning C# as I feel curiousity and facination towards Game Design, I know a few Game Developers who work with C# and pairs it with Unity to create amazing outputs.
 
 ### What is something kind that someone has done for you?
+My partner senses how I sometimes need validation and acts of service to feel appreciated, so he went out of his way to tell me how much he appreciates me and would usually push me to get things done.
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
+It's a process of creating instructions with various rules, that makes the computer perform the task that you want it to.
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
+Being pretty new to coding and studying in this hybrid setting, made me question my sincerity towards this course. But as the weeks passed by, I realised how it was just a trailer and the whole movie has just started taking place.
 
 ### What is a fixed mindset?
+A fixed mindset is getting stuck in a certain pattern of thinking which doesn't allow you to grow or change because you give up or limit yourself by failure. It's saying no to things one hasn't even tried, just because it feels like it won't go the right way.
 
 ### What is something kind you have done for someone else?
+I had my dearest friend visit from Wellington, but she fell really sick, so I took care of her and tried my best to nurse her.
+I even got her some meds, helped her with her migraine and was able to make her feel much better.
 
 ### Have you done mindfulness or attention training before?
+I have practiced mindfulness, it is one of the biggest lesson I try to implement when I find creative solutions. I have done attention training before, maybe not officially by the books, but I am great at decision making when deadline and time-crunch is on my head, but if I get too much time or vague timelines to work with, I can't help myself but procastinate.
 
 ### Have you developed a habit of persevering?
+I have learned that Good Job is the worst compliment one can ever get, because it stops you from getting better. Instant gratitude seems to do the same for me, thus perseverance and patience are the habits I have tried to master and would want to till the very end.
