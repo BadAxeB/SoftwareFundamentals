@@ -14,7 +14,14 @@ Visual Programming as the words define is a visually heavy and much easy way to 
 ## Scratch Projects
 
 ### Hello World
+
+Enjoy a fun tiny convo with the cat Scratchy!
+
 <iframe src="https://scratch.mit.edu/projects/717591726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ### Magical Frog Game
+
+Click Space Bar to Jump and avoid portions
+Don't forget to jump for crystals for bonus points :)
+
 <iframe src="https://scratch.mit.edu/projects/718085715/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
