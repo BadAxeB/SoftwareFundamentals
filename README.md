@@ -6,5 +6,5 @@ The Software Notes, display my understanding and learning of different softwares
 
 Find my Reflective Journal here [ReflectiveJournal.md](ReflectiveJournal.md)
 
-Find my Software Exploration notes here [SoftwareNotes](SoftwareFundamentals/SoftwareNotes/)
+Find my Software Exploration notes here [SoftwareNotes](/SoftwareFundamentals/tree/main/SoftwareNotes)
 
