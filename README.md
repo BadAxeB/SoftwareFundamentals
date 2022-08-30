@@ -8,9 +8,9 @@ Find my Reflective Journal here [ReflectiveJournal.md](ReflectiveJournal.md)
 
 Find my Software Exploration notes here:
 
-[Scratch Learnings](SoftwareNotes/Scratch Learnings.md)
+[Scratch Learnings.md](SoftwareNotes/Scratch Learnings.md)
 
-[Github Learnings](SoftwareNotes/GitHub Learnings.md)
+[Github Learnings.md](SoftwareNotes/GitHub Learnings.md)
 
-[Python Learnings](SoftwareNotes/Python Learnings.md)
+[Python Learnings.md](SoftwareNotes/Python Learnings.md)
 
