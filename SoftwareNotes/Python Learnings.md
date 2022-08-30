@@ -31,11 +31,15 @@ psudo-code
 '''
 
 num1 = int(0)
+
 num2 = 10.5
+
 num3 = 2
+
 num4 = 4
 
 num1 = int(input("Enter a dog's age in Human Years "))
+
 if (num1 <= 2):
     Result =  num1 * num2
 elif (num1 > 2):
