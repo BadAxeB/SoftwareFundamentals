@@ -16,5 +16,5 @@ Visual Programming as the words define is a visually heavy and much easy way to 
 ### Hello World
 <iframe src="https://scratch.mit.edu/projects/717591726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-### Frog Game
-<iframe src="https://scratch.mit.edu/projects/717591726/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+### Magical Frog Game
+<iframe src="https://scratch.mit.edu/projects/718085715/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
