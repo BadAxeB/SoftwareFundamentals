@@ -5,4 +5,6 @@ I have divided my learnings and my thoughts seperately, while my reflective jour
 The Software Notes, display my understanding and learning of different softwares with code/ projects produced using those learnings.
 
 Find my Reflective Journal here [ReflectiveJournal.md](ReflectiveJournal.md)
+
 Find my Software Exploration notes here [SoftwareNotes](/SoftwareNotes)
+
