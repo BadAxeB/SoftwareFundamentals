@@ -5,7 +5,7 @@ I have divided my learnings and my thoughts seperately, while my reflective jour
 
 The Software Notes, display my understanding and learning of different softwares with code/ projects produced using those learnings.
 
-You can go through the turmoild of my reflections in my Reflective Journal here [ReflectiveJournal](ReflectiveJournal.md)
+You can go through the turmoil of my reflections in my Reflective Journal here [ReflectiveJournal](ReflectiveJournal.md)
 
 Or,
 
